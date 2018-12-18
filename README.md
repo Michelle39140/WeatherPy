@@ -14,19 +14,11 @@
 
 ### Dashboard: https://michelle39140.github.io/WeatherPy/
 * [landing page](https://michelle39140.github.io/WeatherPy/index.html):
-  * An explanation of the project.
-  * Links to each visualizations page.
-* Four [visualization pages](https://michelle39140.github.io/WeatherPy/Dashboard/Visualizations/Temperature.html), each with:
-  * The plot/visualization itself for the selected comparison.
-  * A paragraph describing the plot and its significance.
+  * Provides an overview for the project
+* Four [visualization pages](https://michelle39140.github.io/WeatherPy/Dashboard/Visualizations/Temperature.html):
+  * Each with the plot/visualization for the selected comparison
 * ["Comparisons" page](https://michelle39140.github.io/WeatherPy/Dashboard/Comparisons.html):
-  * Contains all of the visualizations on the same page so we can easily visually compare them.
+  * Contains all of the visualizations on the same page to easily visually compare them
 * ["Data" page](https://michelle39140.github.io/WeatherPy/Dashboard/Data.html):
-  * Displays a responsive table containing the data used in the visualizations.
+  * Displays a responsive table containing the data used in the visualizations
 
-
-
-#
-#### *Copyright*
-
-Data Boot Camp © 2018. All Rights Reserved.
