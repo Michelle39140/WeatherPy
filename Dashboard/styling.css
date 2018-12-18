@@ -4,9 +4,6 @@ h4 {
     margin: 0px;
 
 }
-th {
-    vertical-align: text-top;
-}
 
 @media (min-width: 0px) {
     h2 { font-size: 1.2rem;}
