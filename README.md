@@ -12,7 +12,18 @@
 
 **Notebook**: [Jupyter Notebook](WeatherPy.ipynb)
 
-### Dashboard: 
+### Dashboard: https://michelle39140.github.io/WeatherPy/
+* A [landing page](#index.html) containing:
+  * An explanation of the project.
+  * Links to each visualizations page.
+* Four [visualization pages](Visualizations), each with:
+  * The plot/visualization itself for the selected comparison.
+  * A paragraph describing the plot and its significance.
+* A ["Comparisons" page](#Dashboard/Comparisons.html) that:
+  * Contains all of the visualizations on the same page so we can easily visually compare them.
+* A ["Data" page](#Dashboard/Data.html) that:
+  * Displays a responsive table containing the data used in the visualizations.
+
 
 
 #
