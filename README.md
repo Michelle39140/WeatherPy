@@ -1,6 +1,6 @@
 # WeatherPy
 
-**Target**: 
+**Targets**: 
 1. Develop a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator; 
 2. Create a dashboard website to visualize the data and analysis results.
 
