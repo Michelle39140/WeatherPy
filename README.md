@@ -10,13 +10,13 @@ Creating a Python script to visualize the weather of 500+ cities across the worl
 
 **Libraries**: [citipy](https://pypi.python.org/pypi/citipy), pandas, matplotlib, requests
 
-## Sample Results:
+## Part of Results:
 
 * Temperature (F) vs. Latitude 
-![result](output_data/Temperature (F) vs. Latitute.png)
+![result](output_data/Temperature(F)_vs_Latitute.png)
 
 * Wind Speed (mph) vs. Latitude
-![result](output_data/Wind Speed (mph) vs. Latitute.png)
+![result](output_data/WindSpeed(mph)_vs_Latitute.png)
 
 
 #
