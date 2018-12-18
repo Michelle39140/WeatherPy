@@ -3,16 +3,20 @@
 Creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. 
 
 **Data**: [OpenWeatherMap API](https://openweathermap.org/api)
+
 **Notebook**: [Jupyter Notebook](WeatherPy.ipynb)
+
 **Language**: Python
-**Libraries**: [citipy](https://pypi.python.org/pypi/citipy), Pandas, Matplotlib
 
-## Results:
+**Libraries**: [citipy](https://pypi.python.org/pypi/citipy), pandas, matplotlib, requests
 
-* Temperature (F) vs. Latitude
-* Humidity (%) vs. Latitude
-* Cloudiness (%) vs. Latitude
+## Sample Results:
+
+* Temperature (F) vs. Latitude 
+![result](output_data/Temperature (F) vs. Latitute.png)
+
 * Wind Speed (mph) vs. Latitude
+![result](output_data/Wind Speed (mph) vs. Latitute.png)
 
 
 #
