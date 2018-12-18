@@ -1,23 +1,18 @@
 # WeatherPy
 
-**Target**: Creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. 
+**Target**: 
+1. Develop a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator; 
+2. Create a dashboard website to visualize the data and analysis results.
 
 **Data**: [OpenWeatherMap API](https://openweathermap.org/api)
 
-**Notebook**: [Jupyter Notebook](WeatherPy.ipynb)
-
-**Language**: Python
+**Languages**: Python, HTML, CSS
 
 **Libraries**: [citipy](https://pypi.python.org/pypi/citipy), pandas, matplotlib, requests
 
-  
-## Part of Results:
+**Notebook**: [Jupyter Notebook](WeatherPy.ipynb)
 
-* Temperature (F) vs. Latitude 
-![result](output_data/Temperature(F)_vs_Latitute.png)
-
-* Wind Speed (mph) vs. Latitude
-![result](output_data/WindSpeed(mph)_vs_Latitute.png)
+### Dashboard: 
 
 
 #
