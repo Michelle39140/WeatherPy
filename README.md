@@ -4,11 +4,11 @@
 1. Develop a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator; 
 2. Create a dashboard website to visualize the data and analysis results.
 
-**Data**: [OpenWeatherMap API](https://openweathermap.org/api)
+**Data source**: [OpenWeatherMap API](https://openweathermap.org/api)
 
 **Languages**: Python, HTML, CSS
 
-**Libraries**: [citipy](https://pypi.python.org/pypi/citipy), pandas, matplotlib, requests
+**Libraries**: [citipy](https://pypi.python.org/pypi/citipy), pandas, matplotlib, requests; **Framework**: bootstrap
 
 **Notebook**: [Jupyter Notebook](WeatherPy.ipynb)
 
